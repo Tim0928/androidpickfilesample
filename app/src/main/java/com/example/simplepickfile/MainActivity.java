@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         editTextPath = (EditText) findViewById(R.id.editText_path);
 
+
         checkPermission();
 
 
