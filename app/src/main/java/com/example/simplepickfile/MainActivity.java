@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity {
         checkPermission();
 
 
+
 //        rootPath = getStoragePath(getApplicationContext(),true);  //获取 可以插拔的 sd 卡  路径
 //        Log.i(TAG,"lum rootPath： " + rootPath);
 //        if (DocumentsUtils.checkWritableRootPath(getApplicationContext(), rootPath)) {   //检查sd卡路径是否有 权限 没有显示dialog
